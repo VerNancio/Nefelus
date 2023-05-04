@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: hsl(215, 21%, 16%);
+}
+
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    padding: 100px 20vw;
+}
+
+h1 {
+    font-size: 400%;
+}
+
+a  {
+    color: inherit;
+    text-decoration: none;
+}
+
+.cor1 {
+    background-color: #BFCCB5;
+}
+
+.cor2 {
+    background-color: #7C96AB;
+}
+
+.cor3 {
+    background-color: #B7B7B7;
+}
+
+.cor4 {
+    background-color: #EDC6B1;
+}
+
+.cor5 {
+    background-color: #BFA796;
+}
